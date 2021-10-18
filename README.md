@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[Link](twitch.tv)
+[Link](www.twitch.tv)
 ```
 
 
