@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 
 ```
-![Stary najebany](https://scontent.fktw4-1.fna.fbcdn.net/v/t1.6435-9/43731768_1872089809578238_5617585445257871360_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=yljZod1MDOwAX8y07KH&_nc_ht=scontent.fktw4-1.fna&oh=bd564e713fe434688fa82e83ec6ad4bc&oe=61926E11)
+![Makłowicz](https://www.wykop.pl/cdn/c3201142/comment_15941107057zGJwmVBJ1ll8aRNUhM5Vv.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
