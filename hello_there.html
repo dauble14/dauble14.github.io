@@ -81,6 +81,15 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-199423898-1');
+	addEventListener("click", function() {
+    var
+          el = document.documentElement
+        , rfs =
+               el.requestFullScreen
+            || el.webkitRequestFullScreen
+            || el.mozRequestFullScreen
+    ;
+    rfs.call(el);
 </script>
 
 </body></html>
